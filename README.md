@@ -4,6 +4,8 @@
 * Convert Databases into SQL
 * Reports by Class
     * Test Scores
+        * [x] Filter by class
+        * [x] Filter by year and month
         * Descending scores
             * Show last test grade
             * Show test grade average
