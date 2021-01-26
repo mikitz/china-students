@@ -6,7 +6,7 @@
     * Test Scores
         * [x] Filter by class
         * [x] Filter by year and month
-        * Descending scores
+        * [x] Descending scores
             * Show last test grade
             * Show test grade average
     * Homework Scores
