@@ -2,20 +2,15 @@
 
 ### TO DO
 1. Reports by Class
-    * **NEW**
-        * Prepare DataFrames
-            * [x] All Classes
-                * [x] Filter by year & month
-            * [x] User-input Class
-                * [x] Filter by year & month
-            
-    * **OLD**
+    * *Prepare DataFrames*
+        * [x] All Classes
+            * [x] Filter by year & month
+        * [x] User-input Class
+            * [x] Filter by year & month
+    * *Plots*
         * Test Scores
-            * [x] Filter by class
-            * [x] Filter by year and month
-            * [x] Descending scores
-                * Show last test grade
-                * Show test grade average
+            * Show last test grade
+            * Show test grade average
         * Homework Scores
             * Descending scores
                 * Show last HW grade
