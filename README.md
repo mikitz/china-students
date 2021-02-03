@@ -15,12 +15,16 @@
             * [x] Show this test's average
             * Student average over all displayed tests
         * Homework Scores
-            * Descending scores
-                * Show last HW grade
-                * show HW grade average
+            * [x] All HW grades for the month
+            * [x] show HW grade average
         * Attendance
-            * Descending by # of missed days
+            * [x] Define a list of the each absent instance and what dates
+            * Insights
+                * Correlated with HW and/or Test scores
         * Participation
+            * Insights
+                * If Cold Call > Volunteer -> Student should try to volunteer more
+                * If count is less than average -> Student should try to participate more || teacher should try to call on them more
             * Attempts per participation
                 * This month's average
                 * Last month's average
@@ -29,12 +33,14 @@
                 * This month's average
                 * Last month's average
                 * Class average
-            * Participation type
+            * Participation type Distribution
         * Points
             * Participation points
             * HW points
             * Test points
             * Attendance points
             * Total points
+    * *Tables*
+        * 
 2. Reports by Student
 3. Convert Databases into SQL
