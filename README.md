@@ -9,8 +9,11 @@
             * [x] Filter by year & month
     * *Plots*
         * Test Scores
-            * Show last test grade
-            * Show test grade average
+            * [x] Show test before last grade
+            * [x] Show last test grade
+            * [x] Show test grade average for the class (all tests)
+            * [x] Show this test's average
+            * Student average over all displayed tests
         * Homework Scores
             * Descending scores
                 * Show last HW grade
