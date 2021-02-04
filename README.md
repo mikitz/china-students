@@ -33,7 +33,8 @@
                 * This month's average
                 * Last month's average
                 * Class average
-            * Participation type Distribution
+            * [x] Participation type Distribution
+            * [x] Participation Instances count
         * Points
             * Participation points
             * HW points
