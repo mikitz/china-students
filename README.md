@@ -24,6 +24,8 @@
         * Participation
             * [x] Participation type Distribution
             * [x] Participation Instances count
+            * [x] Mean Participations per class
+                * Compare to last month and month before?
             * Attempts per participation
                 * This month's average
                 * Last month's average
