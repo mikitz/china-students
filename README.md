@@ -22,9 +22,8 @@
             * Insights
                 * Correlated with HW and/or Test scores
         * Participation
-            * Insights
-                * If Cold Call > Volunteer -> Student should try to volunteer more
-                * If count is less than average -> Student should try to participate more || teacher should try to call on them more
+            * [x] Participation type Distribution
+            * [x] Participation Instances count
             * Attempts per participation
                 * This month's average
                 * Last month's average
@@ -33,15 +32,14 @@
                 * This month's average
                 * Last month's average
                 * Class average
-            * [x] Participation type Distribution
-            * [x] Participation Instances count
         * Points
             * Participation points
             * HW points
             * Test points
             * Attendance points
             * Total points
-    * *Tables*
-        * 
+    * Insights
+        * If Cold Call > Volunteer -> Student should try to volunteer more
+        * If count is less than average -> Student should try to participate more || teacher should try to call on them more
 2. Reports by Student
 3. Convert Databases into SQL
