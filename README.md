@@ -19,21 +19,24 @@
             * [x] show HW grade average
         * Attendance
             * [x] Define a list of the each absent instance and what dates
-            * Insights
-                * Correlated with HW and/or Test scores
         * Participation
             * [x] Participation type Distribution
             * [x] Participation Instances count
-            * [x] Mean Participations per class
-                * Compare to last month and month before?
+            * Mean Participations for each student by class
+                * [x] This month's average per student
+                * Last month's average per student
+                * [x] Class average for this month
             * Attempts per participation
-                * This month's average
-                * Last month's average
-                * Class average
+                * [x] This month's average per student
+                * Last month's average per student
+                * [x] Class average for this month
             * Hints per participation
-                * This month's average
+                * [x] This month's average
                 * Last month's average
-                * Class average
+                * [x] Class average for this month
+            * Attempt/Hint Ratio
+                * [x] This months
+                * Compare with last month
         * Points
             * Participation points
             * HW points
