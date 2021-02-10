@@ -13,8 +13,8 @@
             * [x] Show this test's average from the class
         * [x] Homework Scores
             * [x] All HW grades for the month
-                * Use subplots to get one plot per ID?
-                    * Will probably look a lot neater
+            * Use subplots to get one plot per ID?
+                * **Average lines are all on the last plot**
             * [x] show HW grade average for each ID
         * [x] Attendance
             * [x] Define a list of the each absent instance and what dates
@@ -38,6 +38,8 @@
             * [x] Attempt/Hint Ratio
                 * [x] This months
         * Points
+            * **Need to caclulate the points for the current month**
+                * Maybe redesign how the table works?
             * Participation points
             * HW points
             * Test points
