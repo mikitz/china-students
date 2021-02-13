@@ -63,11 +63,17 @@
                 * [x] Total Points
     * *Automate Insights*
         * Test Scores
+            * 
         * Homework Scores
+            * 
         * Attendance
+            * List who was absent, their reason, and the date
         * Participation
-            * If Cold Call > Volunteer -> Student should try to volunteer more
-            * If count is less than average -> Student should try to participate more || teacher should try to call on them more
+            * If Cold Call iis greater than Volunteer, then Student should try to volunteer more
+            * If count is less than average, then Student should try to participate more or teacher should try to call on them more
         * Points 
+            * Print out who the top students of the month are
+    * *Automate Reports*
+        * 
 2. Reports by Student
 3. Convert Databases into SQL
