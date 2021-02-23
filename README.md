@@ -69,10 +69,20 @@
         * Attendance
             * List who was absent, their reason, and the date
         * Participation
-            * If Cold Call iis greater than Volunteer, then Student should try to volunteer more
             * If count is less than average, then Student should try to participate more or teacher should try to call on them more
+                * Note how many STDs below
+            * If Cold/Volunteer Ratio is above average, then student needs to volunteer more
+                * Note how many STDs above
+            * If Mean Participation per Class is below average, they need to participate more
+                * Note how many STDs below
+            * If Attempts per Participation Instance is above average, note that they are learning (Compare to last month for trends?)
+                * Note how many STDs above
+            * If Hints per Participation Instance is above average, note that they may need extra help at home
+                * Note how many STDs above
+            * If Attempt/Hint Ratio is below average, student might be getting too many hints, try to give them less than their average for the coming month
+                * Note how many STDs below
         * Points 
-            * Print out who the top students of the month are
+            * Note the top 3 students of the month (Extra reward?)
     * *Automate Reports*
         * 
 2. Reports by Student
